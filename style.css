@@ -34,6 +34,9 @@ img {
   padding: 5em;
   text-align: center;
   color: #4b6587;
+  min-height: 660px;
+  display: flex;
+  align-items: center;
 }
 
 .intro p {
